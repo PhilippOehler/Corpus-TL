@@ -1,0 +1,22 @@
+<align>Informationen zum GNU-Betriebssystem</align>
+<align>Der Name  GNU  ist ein rekursives Akronym von  GNU’s  Not Unix  (‚GNU ist nicht Unix‘) und wird [ ˈ gnu ː ] ausgesprochen.</align>
+<align>[ Weitere historische und allgemeine Artikel über GNU. ]</align>
+<align>GNU wurde von Richard  Stallman  (RMS) im Jahr 1983 als ein Betriebssystem angekündigt, welches von engagierten Menschen zusammengestellt werden würde, die für die Freiheit aller Softwarenutzer zusammenarbeiten, um ihre Datenverarbeitung kontrollieren zu können.</align>
+<align>RMS ist auch heute noch der Chief  GNUisance .</align>
+<align>Das primäre und anhaltende Ziel von GNU ist ein  unixoides  System anzubieten, das 100 %  Freie Software  wäre.</align>
+<align>Nicht 95%ig, nicht 99,5%ig, sondern 100%ig frei.</align>
+<align>Der Name des Systems, GNU, ist ein rekursives Akronym von  GNU’s  Not Unix  (‚GNU ist Nicht Unix‘)   eine Art, den technischen Ideen von Unix Tribut zu zollen und gleichzeitig zu sagen, dass GNU etwas anderes ist.</align>
+<align>Technisch gesehen ist GNU wie Unix.</align>
+<align>Aber im Gegensatz zu Unix gibt GNU seinen Benutzern Freiheit.</align>
+<align>Vollständig freie Distributionen , die diesem Ziel entsprechen, stehen heute zur Verfügung, viele mit dem  GNU Linux- libre -Betriebssystemkern  (die  Beziehung zwischen GNU und dem Betriebssystemkern Linux  wird an anderer Stelle umfassend beschrieben).</align>
+<align>Die  GNU-Pakete  wurden so aufeinander abgestimmt, damit wir ein funktionierendes GNU-System haben konnten.</align>
+<align>Es hat sich gezeigt, dass sie auch als gemeinsamer  Upstream  für viele Distributionen dienen, also Beiträge zu GNU-Paketen der Freie-Software-Gemeinschaft als Ganzes helfen.</align>
+<align>Natürlich ist die Arbeit an GNU noch nicht mit dem Ziel abgeschlossen, ein System zu erstellen, das Rechnernutzern die größtmögliche Freiheit gibt.</align>
+<align>GNU-Pakete beinhalten benutzerorientierte Anwendungen, Dienstprogramme, Hilfsprogramme, Bibliotheken, sogar Spiele   alle Programme, die ein Betriebssystem seinen Nutzern zweckmäßigerweise anbieten kann.</align>
+<align>Neue Pakete sind willkommen  …</align>
+<align>Tausende von Menschen haben sich angeschlossen, um GNU so erfolgreich zu machen wie es heute ist, und es gibt  viele  Möglichkeiten  um mitzuwirken , sowohl technisch als auch nichttechnisch.</align>
+<align>GNU-Entwickler treffen sich von Zeit zu Zeit auf  GNU Hacker Meetings , manchmal als Teil der größeren Freie-Software-Gemeinschaft  LibrePlanet -Konferenzen.</align>
+<align>GNU wurde auf verschiedene Weise von der  Free Software  Foundation  (FSF) unterstützt, eine ebenfalls von RMS gegründete gemeinnützige Organisation, um für Freie-Software-Ideale einzutreten.</align>
+<align>Unter anderem akzeptiert die FSF Copyright-Übertragungen und Verzichtserklärungen, damit sie vor Gericht im Namen der GNU-Programme fungieren kann (zur Klarstellung: ein Programm zu GNU beizutragen, erfordert  nicht  das Copyright an die FSF zu übertragen.</align>
+<align>Wenn man das Copyright zuweist, wird die FSF die  GNU GPL  für das Programm durchsetzen, sollte jemand dagegen  zuwider handeln ; behält man das Copyright, liegt die Durchsetzung bei Ihnen.)</align>
+<align>Das endgültige Ziel ist  Freie  Software bereitzustellen, damit Rechnernutzer alle Aufgaben erledigen können, die sie möchten   und so proprietäre Software zu einer Sache der Vergangenheit zu machen.</align>
