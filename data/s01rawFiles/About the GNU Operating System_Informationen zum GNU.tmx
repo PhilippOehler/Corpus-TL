@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>About the GNU Operating System</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Informationen zum GNU-Betriebssystem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The name “GNU” is a recursive acronym for “GNU's Not Unix!”; it is pronounced as <ph x="0">&lt;t0/&gt;</ph>one syllable with a hard g<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Der Name <ph x="0">&lt;t0/&gt;</ph>GNU<ph x="1">&lt;t1/&gt;</ph> ist ein rekursives Akronym von <ph x="2">&lt;t2/&gt;</ph>GNU’s<ph x="3">&lt;t3/&gt;</ph> Not Unix<ph x="4">&lt;t4/&gt;</ph> (‚GNU ist nicht Unix‘) und wird [<ph x="5">&lt;t5/&gt;</ph>ˈ<ph x="6">&lt;t6/&gt;</ph>gnu<ph x="7">&lt;t7/&gt;</ph>ː<ph x="8">&lt;t8/&gt;</ph>] ausgesprochen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>[<ph x="0">&lt;t0/&gt;</ph>Other historical and general articles about GNU.<ph x="1">&lt;t1/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>[<ph x="0">&lt;t0/&gt;</ph>Weitere historische und allgemeine Artikel über GNU.<ph x="1">&lt;t1/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>GNU was launched by Richard Stallman (rms) in 1983, as an operating system which would be put together by people working together for the freedom of all software users to control their computing.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>GNU wurde von Richard <ph x="0">&lt;t0/&gt;</ph>Stallman<ph x="1">&lt;t1/&gt;</ph> (RMS) im Jahr 1983 als ein Betriebssystem angekündigt, welches von engagierten Menschen zusammengestellt werden würde, die für die Freiheit aller Softwarenutzer zusammenarbeiten, um ihre Datenverarbeitung kontrollieren zu können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>rms remains the Chief <ph x="0">&lt;t0/&gt;</ph>GNUisance<ph x="1">&lt;t1/&gt;</ph> today.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>RMS ist auch heute noch der Chief <ph x="2">&lt;t2/&gt;</ph>GNUisance<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The primary and continuing goal of GNU is to offer a Unix-compatible system that would be 100% <ph x="0">&lt;t0/&gt;</ph>free software<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Das primäre und anhaltende Ziel von GNU ist ein <ph x="0">&lt;t0/&gt;</ph>unixoides<ph x="1">&lt;t1/&gt;</ph> System anzubieten, das 100 % <ph x="2">&lt;t2/&gt;</ph>Freie Software<ph x="3">&lt;t3/&gt;</ph> wäre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Not 95% free, not 99.5%, but 100%.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Nicht 95%ig, nicht 99,5%ig, sondern 100%ig frei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The name of the system, GNU, is a recursive acronym meaning GNU's Not Unix—a way of paying tribute to the technical ideas of Unix, while at the same time saying that GNU is something different.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Der Name des Systems, GNU, ist ein rekursives Akronym von <ph x="4">&lt;t4/&gt;</ph>GNU’s<ph x="5">&lt;t5/&gt;</ph> Not Unix<ph x="6">&lt;t6/&gt;</ph> (‚GNU ist Nicht Unix‘) <ph x="7">&lt;t7/&gt;</ph> eine Art, den technischen Ideen von Unix Tribut zu zollen und gleichzeitig zu sagen, dass GNU etwas anderes ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Technically, GNU is like Unix.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Technisch gesehen ist GNU wie Unix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>But unlike Unix, GNU gives its users freedom.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Aber im Gegensatz zu Unix gibt GNU seinen Benutzern Freiheit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Completely free system distributions<ph x="0">&lt;t0/&gt;</ph> (“distros”) meeting this goal are available today, many using the <ph x="1">&lt;t1/&gt;</ph>Linux-libre kernel<ph x="2">&lt;t2/&gt;</ph> (the <ph x="3">&lt;t3/&gt;</ph>relationship between GNU and the Linux kernel<ph x="4">&lt;t4/&gt;</ph> is described more fully elsewhere).</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Vollständig freie Distributionen<ph x="0">&lt;t0/&gt;</ph>, die diesem Ziel entsprechen, stehen heute zur Verfügung, viele mit dem <ph x="1">&lt;t1/&gt;</ph>GNU Linux-<ph x="2">&lt;t2/&gt;</ph>libre<ph x="3">&lt;t3/&gt;</ph>-Betriebssystemkern<ph x="4">&lt;t4/&gt;</ph> (die <ph x="5">&lt;t5/&gt;</ph>Beziehung zwischen GNU und dem Betriebssystemkern Linux<ph x="6">&lt;t6/&gt;</ph> wird an anderer Stelle umfassend beschrieben).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The <ph x="5">&lt;t5/&gt;</ph>GNU packages<ph x="6">&lt;t6/&gt;</ph> have been designed to work together so we could have a functioning GNU system.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Die <ph x="7">&lt;t7/&gt;</ph>GNU-Pakete<ph x="8">&lt;t8/&gt;</ph> wurden so aufeinander abgestimmt, damit wir ein funktionierendes GNU-System haben konnten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It has turned out that they also serve as a common “upstream” for many distros, so contributions to GNU packages help the free software community as a whole.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Es hat sich gezeigt, dass sie auch als gemeinsamer <ph x="9">&lt;t9/&gt;</ph>Upstream<ph x="10">&lt;t10/&gt;</ph> für viele Distributionen dienen, also Beiträge zu GNU-Paketen der Freie-Software-Gemeinschaft als Ganzes helfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Naturally, work on GNU is ongoing, with the goal to create a system that gives the greatest freedom to computer users.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Natürlich ist die Arbeit an GNU noch nicht mit dem Ziel abgeschlossen, ein System zu erstellen, das Rechnernutzern die größtmögliche Freiheit gibt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>GNU packages include user-oriented applications, utilities, tools, libraries, even games—all the programs that an operating system can usefully offer to its users.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>GNU-Pakete beinhalten benutzerorientierte Anwendungen, Dienstprogramme, Hilfsprogramme, Bibliotheken, sogar Spiele <ph x="11">&lt;t11/&gt;</ph> alle Programme, die ein Betriebssystem seinen Nutzern zweckmäßigerweise anbieten kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg><ph x="7">&lt;t7/&gt;</ph>New packages are welcome.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg><ph x="12">&lt;t12/&gt;</ph>Neue Pakete sind willkommen<ph x="13">&lt;t13/&gt;</ph> …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thousands of people have joined in to make GNU the success it is today, and there are <ph x="0">&lt;t0/&gt;</ph>many ways to contribute<ph x="1">&lt;t1/&gt;</ph>, both technical and non-technical.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Tausende von Menschen haben sich angeschlossen, um GNU so erfolgreich zu machen wie es heute ist, und es gibt <ph x="0">&lt;t0/&gt;</ph>viele <ph x="1">&lt;t1/&gt;</ph>Möglichkeiten<ph x="2">&lt;t2/&gt;</ph> um mitzuwirken<ph x="3">&lt;t3/&gt;</ph>, sowohl technisch als auch nichttechnisch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>GNU developers gather from time to time in <ph x="2">&lt;t2/&gt;</ph>GNU Hackers Meetings<ph x="3">&lt;t3/&gt;</ph>, sometimes as part of the larger free software community <ph x="4">&lt;t4/&gt;</ph>LibrePlanet<ph x="5">&lt;t5/&gt;</ph> conferences.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>GNU-Entwickler treffen sich von Zeit zu Zeit auf <ph x="4">&lt;t4/&gt;</ph>GNU Hacker Meetings<ph x="5">&lt;t5/&gt;</ph>, manchmal als Teil der größeren Freie-Software-Gemeinschaft <ph x="6">&lt;t6/&gt;</ph>LibrePlanet<ph x="7">&lt;t7/&gt;</ph>-Konferenzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>GNU has been supported in several ways by the <ph x="0">&lt;t0/&gt;</ph>Free Software Foundation<ph x="1">&lt;t1/&gt;</ph>, the nonprofit organization also founded by rms to advocate free software ideals.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>GNU wurde auf verschiedene Weise von der <ph x="0">&lt;t0/&gt;</ph>Free Software <ph x="1">&lt;t1/&gt;</ph>Foundation<ph x="2">&lt;t2/&gt;</ph> (FSF) unterstützt, eine ebenfalls von RMS gegründete gemeinnützige Organisation, um für Freie-Software-Ideale einzutreten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Among other things, the FSF accepts copyright assignments and disclaimers, so it can act in court on behalf of GNU programs. (To be clear, contributing a program to GNU does <ph x="2">&lt;t2/&gt;</ph>not<ph x="3">&lt;t3/&gt;</ph> require transferring copyright to the FSF.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Unter anderem akzeptiert die FSF Copyright-Übertragungen und Verzichtserklärungen, damit sie vor Gericht im Namen der GNU-Programme fungieren kann (zur Klarstellung: ein Programm zu GNU beizutragen, erfordert <ph x="3">&lt;t3/&gt;</ph>nicht<ph x="4">&lt;t4/&gt;</ph> das Copyright an die FSF zu übertragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you do assign copyright, the FSF will enforce the GPL for the program if someone violates it; if you keep the copyright, enforcement will be up to you.)</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Wenn man das Copyright zuweist, wird die FSF die <ph x="5">&lt;t5/&gt;</ph>GNU GPL<ph x="6">&lt;t6/&gt;</ph> für das Programm durchsetzen, sollte jemand dagegen <ph x="7">&lt;t7/&gt;</ph>zuwider handeln<ph x="8">&lt;t8/&gt;</ph>; behält man das Copyright, liegt die Durchsetzung bei Ihnen.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The ultimate goal is to provide free software to do all of the <ph x="0">&lt;t0/&gt;</ph>jobs<ph x="1">&lt;t1/&gt;</ph> computer users want to do—and thus make proprietary software a thing of the past.</seg>
+      </tuv>
+      <tuv xml:lang="DE-DE" creationid="OmegaT Aligner" creationdate="20200517T122931Z">
+        <seg>Das endgültige Ziel ist <ph x="0">&lt;t0/&gt;</ph>Freie<ph x="1">&lt;t1/&gt;</ph> Software bereitzustellen, damit Rechnernutzer alle Aufgaben erledigen können, die sie möchten <ph x="2">&lt;t2/&gt;</ph> und so proprietäre Software zu einer Sache der Vergangenheit zu machen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

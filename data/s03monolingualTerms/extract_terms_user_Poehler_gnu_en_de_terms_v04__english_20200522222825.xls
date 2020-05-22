@@ -1,0 +1,179 @@
+<html>
+  <head>
+    <title>extract_terms</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+    <table>
+      <thead><tr><th>Term</th><th>Score</th><th>Freq</th><th>Ref freq</th><th>Rel freq</th><th>Rel ref freq</th></tr></thead>
+      <tbody>
+      <tr>
+        <td>recursive acronym</td>
+        <td>3883.820</td>
+        <td>2</td>
+        <td>2</td>
+        <td>3913.894</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>free software community</td>
+        <td>3775.210</td>
+        <td>2</td>
+        <td>9</td>
+        <td>3913.894</td>
+        <td>0.038</td>
+      </tr>
+      <tr>
+        <td>software community</td>
+        <td>3585.070</td>
+        <td>2</td>
+        <td>22</td>
+        <td>3913.894</td>
+        <td>0.093</td>
+      </tr>
+      <tr>
+        <td>free software</td>
+        <td>2883.250</td>
+        <td>5</td>
+        <td>569</td>
+        <td>9784.736</td>
+        <td>2.394</td>
+      </tr>
+      <tr>
+        <td>community libreplanet</td>
+        <td>1957.950</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1956.947</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>free software community libreplanet</td>
+        <td>1957.950</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1956.947</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>software community libreplanet</td>
+        <td>1957.950</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1956.947</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>assign copyright</td>
+        <td>1957.950</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1956.947</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>unix-compatible system</td>
+        <td>1957.950</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1956.947</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>hard g</td>
+        <td>1950.150</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1956.947</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>way of paying tribute</td>
+        <td>1950.150</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1956.947</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>transferring copyright</td>
+        <td>1942.410</td>
+        <td>1</td>
+        <td>2</td>
+        <td>1956.947</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>continuing goal</td>
+        <td>1902.770</td>
+        <td>1</td>
+        <td>7</td>
+        <td>1956.947</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>free system</td>
+        <td>1828.150</td>
+        <td>1</td>
+        <td>17</td>
+        <td>1956.947</td>
+        <td>0.072</td>
+      </tr>
+      <tr>
+        <td>paying tribute</td>
+        <td>1538.060</td>
+        <td>1</td>
+        <td>65</td>
+        <td>1956.947</td>
+        <td>0.274</td>
+      </tr>
+      <tr>
+        <td>proprietary software</td>
+        <td>1259.130</td>
+        <td>1</td>
+        <td>132</td>
+        <td>1956.947</td>
+        <td>0.555</td>
+      </tr>
+      <tr>
+        <td>available today</td>
+        <td>665.060</td>
+        <td>1</td>
+        <td>462</td>
+        <td>1956.947</td>
+        <td>1.944</td>
+      </tr>
+      <tr>
+        <td>nonprofit organization</td>
+        <td>560.210</td>
+        <td>1</td>
+        <td>593</td>
+        <td>1956.947</td>
+        <td>2.495</td>
+      </tr>
+      <tr>
+        <td>ultimate goal</td>
+        <td>499.990</td>
+        <td>1</td>
+        <td>693</td>
+        <td>1956.947</td>
+        <td>2.916</td>
+      </tr>
+      <tr>
+        <td>operating system</td>
+        <td>332.930</td>
+        <td>2</td>
+        <td>2557</td>
+        <td>3913.894</td>
+        <td>10.760</td>
+      </tr>
+      <tr>
+        <td>same time</td>
+        <td>30.680</td>
+        <td>1</td>
+        <td>14930</td>
+        <td>1956.947</td>
+        <td>62.826</td>
+      </tr>
+      </tbody>
+</table></body></html>

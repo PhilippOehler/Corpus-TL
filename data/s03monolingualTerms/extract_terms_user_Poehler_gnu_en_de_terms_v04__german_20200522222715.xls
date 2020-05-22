@@ -1,0 +1,235 @@
+<html>
+  <head>
+    <title>extract_terms</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+    <table>
+      <thead><tr><th>Term</th><th>Score</th><th>Freq</th><th>Ref freq</th><th>Rel freq</th><th>Rel ref freq</th></tr></thead>
+      <tbody>
+      <tr>
+        <td>rekursives Akronym</td>
+        <td>3892.050</td>
+        <td>2</td>
+        <td>0</td>
+        <td>3891.051</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>benutzerorientierte Anwendung</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>freie Distribution</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>große Freie-software-gemeinschaft</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>Gnu-paket der Freie-software-gemeinschaft</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>funktionierendes Gnu-system</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>Name Gnu</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>Gnu Hacker</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>Name der Gnu-programme</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>Teil der Größeren Freie-software-gemeinschaft</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>gemeinsamer Upstream</td>
+        <td>1946.530</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1945.525</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>Name des Systems</td>
+        <td>1938.770</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1945.525</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>gegründete gemeinnützige Organisation</td>
+        <td>1938.770</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1945.525</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>anhaltendes Ziel</td>
+        <td>1938.770</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1945.525</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>unixoides System</td>
+        <td>1923.440</td>
+        <td>1</td>
+        <td>3</td>
+        <td>1945.525</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>allgemeiner Artikel</td>
+        <td>1913.990</td>
+        <td>1</td>
+        <td>4</td>
+        <td>1945.525</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>Gnu Gpl</td>
+        <td>1913.990</td>
+        <td>1</td>
+        <td>4</td>
+        <td>1945.525</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>Sache der Vergangenheit</td>
+        <td>1882.520</td>
+        <td>1</td>
+        <td>8</td>
+        <td>1945.525</td>
+        <td>0.035</td>
+      </tr>
+      <tr>
+        <td>technische Idee</td>
+        <td>1875.260</td>
+        <td>1</td>
+        <td>9</td>
+        <td>1945.525</td>
+        <td>0.039</td>
+      </tr>
+      <tr>
+        <td>endgültiges Ziel</td>
+        <td>1792.380</td>
+        <td>1</td>
+        <td>20</td>
+        <td>1945.525</td>
+        <td>0.086</td>
+      </tr>
+      <tr>
+        <td>größtmögliche Freiheit</td>
+        <td>1704.490</td>
+        <td>1</td>
+        <td>33</td>
+        <td>1945.525</td>
+        <td>0.143</td>
+      </tr>
+      <tr>
+        <td>proprietäre Software</td>
+        <td>1618.060</td>
+        <td>1</td>
+        <td>47</td>
+        <td>1945.525</td>
+        <td>0.203</td>
+      </tr>
+      <tr>
+        <td>neues Paket</td>
+        <td>1484.760</td>
+        <td>1</td>
+        <td>72</td>
+        <td>1945.525</td>
+        <td>0.311</td>
+      </tr>
+      <tr>
+        <td>freie Software</td>
+        <td>1314.440</td>
+        <td>2</td>
+        <td>454</td>
+        <td>3891.051</td>
+        <td>1.961</td>
+      </tr>
+      <tr>
+        <td>engagierter Mensch</td>
+        <td>872.490</td>
+        <td>1</td>
+        <td>285</td>
+        <td>1945.525</td>
+        <td>1.231</td>
+      </tr>
+      <tr>
+        <td>verschiedene Weise</td>
+        <td>808.360</td>
+        <td>1</td>
+        <td>326</td>
+        <td>1945.525</td>
+        <td>1.408</td>
+      </tr>
+      <tr>
+        <td>gemeinnützige Organisation</td>
+        <td>586.300</td>
+        <td>1</td>
+        <td>537</td>
+        <td>1945.525</td>
+        <td>2.320</td>
+      </tr>
+      <tr>
+        <td>andere Stelle</td>
+        <td>187.150</td>
+        <td>1</td>
+        <td>2176</td>
+        <td>1945.525</td>
+        <td>9.401</td>
+      </tr>
+      </tbody>
+</table></body></html>

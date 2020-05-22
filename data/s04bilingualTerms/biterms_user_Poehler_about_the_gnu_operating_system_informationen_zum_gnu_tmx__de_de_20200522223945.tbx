@@ -1,0 +1,1898 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<martif type="TBX" xml:lang="">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sketch Engine Terminology Extraction</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Source corpus: 
+          reference corpus: 
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="1">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_1">Ziel</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">4</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_1">Ziel</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">4</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_2">Freiheit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_2">Freiheit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_3">rekursives Akronym</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_3">rekursives Akronym</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_4">Rechnernutzer</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_4">Rechnernutzer</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_5">Not</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_5">Not</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_6">Linux</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_6">Linux</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_7">Freie-software-gemeinschaft</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_7">Freie-software-gemeinschaft</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_8">Betriebssystemkern</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_8">Betriebssystemkern</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_9">Betriebssystem</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_9">Betriebssystem</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="10">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_10">Akronym</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_10">Akronym</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="11">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_11">verschiedene Weise</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_11">verschiedene Weise</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="12">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_12">unixoides System</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_12">unixoides System</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="13">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_13">technische Idee</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_13">technische Idee</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="14">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_14">proprietäre Software</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_14">proprietäre Software</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="15">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_15">größtmögliche Freiheit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_15">größtmögliche Freiheit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="16">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_16">große Freie-software-gemeinschaft</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_16">große Freie-software-gemeinschaft</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="17">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_17">gemeinsamer Upstream</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_17">gemeinsamer Upstream</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="18">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_18">gemeinnützige Organisation</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_18">gemeinnützige Organisation</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="19">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_19">gegründete gemeinnützige Organisation</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_19">gegründete gemeinnützige Organisation</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="20">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_20">freie Distribution</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_20">freie Distribution</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="21">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_21">engagierter Mensch</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_21">engagierter Mensch</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="22">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_22">endgültiges Ziel</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_22">endgültiges Ziel</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="23">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_23">anhaltendes Ziel</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_23">anhaltendes Ziel</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="24">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_24">andere Stelle</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_24">andere Stelle</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="25">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_25">Weise</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_25">Weise</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="26">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_26">Verzichtserklärung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_26">Verzichtserklärung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="27">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_27">Vergangenheit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_27">Vergangenheit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="28">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_28">Verfügung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_28">Verfügung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="29">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_29">Upstream</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_29">Upstream</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="30">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_30">Tribut</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_30">Tribut</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="31">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_31">Teil der Größeren Freie-software-gemeinschaft</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_31">Teil der Größeren Freie-software-gemeinschaft</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="32">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_32">Teil</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_32">Teil</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="33">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_33">Tausend</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_33">Tausend</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="34">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_34">Stelle</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_34">Stelle</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="35">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_35">Stallman</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_35">Stallman</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="36">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_36">Softwarenutzer</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_36">Softwarenutzer</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="37">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_37">Sache der Vergangenheit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_37">Sache der Vergangenheit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="38">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_38">Sache</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_38">Sache</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="39">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_39">Richard</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_39">Richard</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="40">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_40">Organisation</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_40">Organisation</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="41">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_41">Name des Systems</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_41">Name des Systems</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="42">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_42">Name der Gnu-programme</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_42">Name der Gnu-programme</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="43">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_43">Name Gnu</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_43">Name Gnu</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="44">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_44">Möglichkeit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_44">Möglichkeit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="45">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_45">Meeting</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_45">Meeting</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="46">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_46">Konferenz</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_46">Konferenz</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="47">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_47">Klarstellung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_47">Klarstellung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="48">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_48">Jahr</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_48">Jahr</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="49">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_49">Idee</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_49">Idee</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="50">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_50">Hacker</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_50">Hacker</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="51">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_51">Gpl</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_51">Gpl</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="52">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_52">Gnu-programm</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_52">Gnu-programm</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="53">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_53">Gnu-paket der Freie-software-gemeinschaft</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_53">Gnu-paket der Freie-software-gemeinschaft</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="54">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_54">Gnu-entwickler</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_54">Gnu-entwickler</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="55">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_55">Gnu Hacker</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_55">Gnu Hacker</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="56">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_56">Gnu Gpl</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_56">Gnu Gpl</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="57">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_57">Gericht</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_57">Gericht</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="58">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_58">Ganze</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_58">Ganze</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="59">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_59">Freie-software-ideale</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_59">Freie-software-ideale</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="60">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_60">Free</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_60">Free</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="61">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_61">Foundation</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_61">Foundation</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="62">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_62">Durchsetzung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_62">Durchsetzung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="63">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_63">Datenverarbeitung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_63">Datenverarbeitung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="64">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_64">Copyright-übertragung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_64">Copyright-übertragung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="65">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_65">Beziehung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_65">Beziehung</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="66">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_66">Beitrag</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_66">Beitrag</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="67">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_67">Aufgabe</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_67">Aufgabe</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="68">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_68">Art</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_68">Art</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="69">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_69">Arbeit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_69">Arbeit</term>
+              <termNote type="score">14.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="70">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_70">Copyright</term>
+              <termNote type="score">13.778</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_70">Copyright</term>
+              <termNote type="score">13.778</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="71">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_71">Rms</term>
+              <termNote type="score">13.679</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_71">Rms</term>
+              <termNote type="score">13.679</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="72">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_72">Programm</term>
+              <termNote type="score">13.679</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_72">Programm</term>
+              <termNote type="score">13.679</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="73">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_73">Name</term>
+              <termNote type="score">13.679</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_73">Name</term>
+              <termNote type="score">13.679</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="74">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_74">Zeit</term>
+              <termNote type="score">13.679</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_74">Zeit</term>
+              <termNote type="score">13.679</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="75">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_75">Fsf</term>
+              <termNote type="score">13.585</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_75">Fsf</term>
+              <termNote type="score">13.585</termNote>
+              <termNote type="frequency">4</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="76">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_76">Software</term>
+              <termNote type="score">13.541</termNote>
+              <termNote type="frequency">4</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_76">Software</term>
+              <termNote type="score">13.541</termNote>
+              <termNote type="frequency">4</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="77">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_77">freie Software</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_77">freie Software</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="78">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_78">Mensch</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_78">Mensch</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="79">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_79">Distribution</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_79">Distribution</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">2</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="80">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_80">benutzerorientierte Anwendung</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_80">benutzerorientierte Anwendung</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="81">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_81">Nutzer</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_81">Nutzer</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="82">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_82">Hilfsprogramm</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_82">Hilfsprogramm</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="83">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_83">Dienstprogramm</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_83">Dienstprogramm</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="84">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_84">Bibliothek</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_84">Bibliothek</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="85">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_85">Anwendung</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_85">Anwendung</term>
+              <termNote type="score">13.416</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="86">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_86">System</term>
+              <termNote type="score">13.264</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_86">System</term>
+              <termNote type="score">13.264</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="87">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_87">Unix</term>
+              <termNote type="score">13.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_87">Unix</term>
+              <termNote type="score">13.000</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="88">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_88">Gnu-paket</term>
+              <termNote type="score">13.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_88">Gnu-paket</term>
+              <termNote type="score">13.000</termNote>
+              <termNote type="frequency">3</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="89">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_89">Gegensatz</term>
+              <termNote type="score">13.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_89">Gegensatz</term>
+              <termNote type="score">13.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="90">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_90">Benutzer</term>
+              <termNote type="score">13.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_90">Benutzer</term>
+              <termNote type="score">13.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="91">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_91">%</term>
+              <termNote type="score">12.679</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_91">%</term>
+              <termNote type="score">12.679</termNote>
+              <termNote type="frequency">4</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="92">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_92">Gnu</term>
+              <termNote type="score">12.622</termNote>
+              <termNote type="frequency">5</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_92">Gnu</term>
+              <termNote type="score">12.622</termNote>
+              <termNote type="frequency">19</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="93">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_93">funktionierendes Gnu-system</term>
+              <termNote type="score">12.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_93">funktionierendes Gnu-system</term>
+              <termNote type="score">12.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="94">
+        <langSet xml:lang="l1">
+          <ntig>
+            <termGrp>
+              <term id="t1_94">Gnu-system</term>
+              <termNote type="score">12.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="l2">
+          <ntig>
+            <termGrp>
+              <term id="t2_94">Gnu-system</term>
+              <termNote type="score">12.000</termNote>
+              <termNote type="frequency">1</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>
