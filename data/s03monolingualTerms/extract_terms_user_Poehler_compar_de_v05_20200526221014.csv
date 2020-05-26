@@ -1,0 +1,1003 @@
+"corpus","user/Poehler/compar_de_v05"
+"subcorpus",""
+"Item","Score","Freq","Ref_freq","Rel_freq","Rel_ref_freq"
+"freie Software",2298.680,487,454,6805.383,1.961
+"proprietäre Software",1836.160,158,47,2207.907,0.203
+"unfreie Software",511.900,37,3,517.041,0.013
+"angewandte Forschung",505.180,62,166,866.394,0.717
+"Richard Stallman",454.750,34,11,475.119,0.048
+"Marco Becker",434.200,31,0,433.197,0.000
+"Franka Burmester",406.250,29,0,405.249,0.000
+"Julia Schmidt--löffler",378.300,27,0,377.300,0.000
+"freie Softwarelizenz",305.980,22,2,307.430,0.009
+"modifizierte Version",300.040,29,82,405.249,0.354
+"wesentliche Freiheit",279.360,20,1,279.482,0.004
+"proprietäres Programm",263.350,19,3,265.508,0.013
+"freies Betriebssystem",228.170,19,39,265.508,0.168
+"freie Lizenz",216.090,20,69,279.482,0.298
+"Free Software",187.090,14,12,195.637,0.052
+"andere Lizenz",149.050,11,9,153.715,0.039
+"kommerzielle Software",148.230,12,32,167.689,0.138
+"unfreies Programm",140.180,10,1,139.741,0.004
+"verschiedene Lizenz",122.120,9,9,125.767,0.039
+"geänderte Version",114.410,9,25,125.767,0.108
+"eingeschränktes Copyleft",112.790,8,0,111.793,0.000
+"Heise Zeitschriften Verlages",112.790,8,0,111.793,0.000
+"Zeitschrift Verlages",112.790,8,0,111.793,0.000
+"Heise Zeitschriften",111.450,8,3,111.793,0.013
+"Gnu Gpl",110.910,8,4,111.793,0.017
+"Zeitschrift Verlag",110.040,8,6,111.793,0.026
+"Foundation Europe",106.010,8,15,111.793,0.065
+"offener Quellcode",105.510,8,16,111.793,0.069
+"deutschsprachige Artikelfassung",98.820,7,0,97.819,0.000
+"englischsprachige Artikelfassung",98.820,7,0,97.819,0.000
+"strenges Copyleft",98.820,7,0,97.819,0.000
+"Gpl V3",98.820,7,0,97.819,0.000
+"Richtigkeit der Übersetzung",98.420,7,1,97.819,0.004
+"Bruce Perens",97.650,7,3,97.819,0.013
+"ausführbare Form",96.410,7,6,97.819,0.026
+"weltweite Mission",95.570,7,8,97.819,0.035
+"andere Software",86.240,9,109,125.767,0.471
+"Northern Business",84.840,6,0,83.845,0.000
+"Homepage der Gnu",84.840,6,0,83.845,0.000
+"Homepage des Bundesverwaltungsamtes",84.840,6,0,83.845,0.000
+"halbfreie Software",84.840,6,0,83.845,0.000
+"Gpl V2",84.840,6,0,83.845,0.000
+"eigene Datenverarbeitung",84.170,6,2,83.845,0.009
+"Eric Raymond",83.430,6,4,83.845,0.017
+"Entwicklung Freier Software",83.100,6,5,83.845,0.022
+"Funktionsweise des Programms",83.100,6,5,83.845,0.022
+"anderer Programmierer",80.340,6,13,83.845,0.056
+"weite Pflicht",80.040,6,14,83.845,0.060
+"Electronic Commerce",73.710,6,35,83.845,0.151
+"Gemeinschaft der Nutzer",70.870,5,0,69.870,0.000
+"Freiheit der Nutzer",70.590,5,1,69.870,0.004
+"deutsches Urheberrecht",70.530,7,93,97.819,0.402
+"Quellcode des Programms",70.310,5,2,69.870,0.009
+"Frage der Freiheit",69.140,5,6,69.870,0.026
+"genutzte Lizenz",69.140,5,6,69.870,0.026
+"lizenzierte Software",67.950,5,10,69.870,0.043
+"offene Software",67.690,5,11,69.870,0.048
+"Studium der Betriebswirtschaftslehre",66.490,6,64,83.845,0.277
+"öffentliches Projekt",66.050,5,17,69.870,0.073
+"digitale Kluft",64.720,5,22,69.870,0.095
+"exakte Kopie",64.250,5,24,69.870,0.104
+"sozialer Wandel",58.390,6,105,83.845,0.454
+"Rights Management",57.900,5,52,69.870,0.225
+"Ieee Annals",56.900,4,0,55.896,0.000
+"Bedürfnis der Datenverarbeitung",56.900,4,0,55.896,0.000
+"Edgar David",56.900,4,0,55.896,0.000
+"Definition Freier Software",56.900,4,0,55.896,0.000
+"aufgelistete Freiheit",56.900,4,0,55.896,0.000
+"fehlende Freiheit",56.900,4,0,55.896,0.000
+"Hersteller Proprietärer Software",56.900,4,0,55.896,0.000
+"It beratungsleistung",56.900,4,0,55.896,0.000
+"vertragsbasierte Lizenz",56.900,4,0,55.896,0.000
+"Lizenzstatus Eingebundener Mediendateien",56.900,4,0,55.896,0.000
+"Marke der Wikimedia",56.900,4,0,55.896,0.000
+"Mitglied der Freie-software-bewegung",56.900,4,0,55.896,0.000
+"Sinn Fehlender Freiheiten",56.900,4,0,55.896,0.000
+"Copyleft-lizenzierte Software",56.900,4,0,55.896,0.000
+"kommerzielle freie Software",56.900,4,0,55.896,0.000
+"Verbesserung der Öffentlichkeit",56.900,4,0,55.896,0.000
+"eigene modifizierte Version",56.900,4,0,55.896,0.000
+"proprietäre Version",56.900,4,0,55.896,0.000
+"David Villanueva",56.900,4,0,55.896,0.000
+"Of Computing",56.670,4,1,55.896,0.004
+"Berlin Heidelberg",56.670,4,1,55.896,0.004
+"freizügige Lizenz",56.670,4,1,55.896,0.004
+"ungerechte Macht",56.670,4,1,55.896,0.004
+"eingebundene Mediendatei",56.670,4,1,55.896,0.004
+"ursprünglicher Entwickler",56.220,4,3,55.896,0.013
+"kommerzielle Entwicklung",56.220,4,3,55.896,0.013
+"Free Software",56.220,4,3,55.896,0.013
+"Share Alike",55.940,4,4,55.896,0.017
+"Ausführen der Software",55.940,4,4,55.896,0.017
+"Linus Torvalds",55.940,4,4,55.896,0.017
+"bestimmte Freiheit",55.730,4,5,55.896,0.022
+"unterschiedliche Lizenz",55.730,4,5,55.896,0.022
+"vorhandener Modul",55.730,4,5,55.896,0.022
+"ursprüngliches Programm",55.730,4,5,55.896,0.022
+"proprietärer Treiber",55.730,4,5,55.896,0.022
+"Annals Of",55.730,4,5,55.896,0.022
+"Digital Rights",54.600,5,69,69.870,0.298
+"potenzielles Problem",54.340,4,11,55.896,0.048
+"offene Quelle",54.140,4,12,55.896,0.052
+"beliebiger Zweck",53.880,4,13,55.896,0.056
+"gemachte Änderung",53.880,4,13,55.896,0.056
+"gesamte Gemeinschaft",53.680,4,14,55.896,0.060
+"staatlicher Betrieb",52.200,4,21,55.896,0.091
+"freie Dokumentation",51.960,4,22,55.896,0.095
+"freies Programm",51.580,4,24,55.896,0.104
+"ausführbares Programm",50.980,4,27,55.896,0.117
+"gemeinnützige Organisation",50.810,12,537,167.689,2.320
+"neue Lizenz",50.000,4,32,55.896,0.138
+"eigenes Bedürfnis",47.650,12,588,167.689,2.540
+"zusätzliche Bedingung",46.980,4,49,55.896,0.212
+"gesellschaftliche Akzeptanz",46.690,5,120,69.870,0.518
+"männliche Form",45.520,4,58,55.896,0.251
+"freie Rede",44.000,4,68,55.896,0.294
+"urheberrechtlicher Schutz",43.700,4,70,55.896,0.302
+"Gnu Ada",42.920,3,0,41.922,0.000
+"Definition der Osi",42.920,3,0,41.922,0.000
+"früher Entwickler",42.920,3,0,41.922,0.000
+"Freiheit der Kontrolle",42.920,3,0,41.922,0.000
+"Lizenzierung der Serversoftware",42.920,3,0,41.922,0.000
+"Vendor Lock-in",42.920,3,0,41.922,0.000
+"professionelles Multimedia-format",42.920,3,0,41.922,0.000
+"freier Quellcode",42.920,3,0,41.922,0.000
+"freie kommerzielle Software",42.920,3,0,41.922,0.000
+"freiheitsgewährende Software",42.920,3,0,41.922,0.000
+"proprietäre Softwarefirma",42.920,3,0,41.922,0.000
+"proprietäres Softwareprodukt",42.920,3,0,41.922,0.000
+"direkte Transformation",42.920,3,0,41.922,0.000
+"akademische Us-einrichtung",42.920,3,0,41.922,0.000
+"eigene geänderte Version",42.920,3,0,41.922,0.000
+"Zugänglichkeit des Quellcodes",42.920,3,0,41.922,0.000
+"zusätzliche Beschränkung",42.750,3,1,41.922,0.004
+"freier Ersatz",42.750,3,1,41.922,0.004
+"freie Hardware",42.750,3,1,41.922,0.004
+"Carnegie Mellon",42.750,3,1,41.922,0.004
+"Freie Software",42.750,3,1,41.922,0.004
+"proprietäre Erweiterung",42.580,3,2,41.922,0.009
+"Gabler Wirtschaftslexikon",42.580,3,2,41.922,0.009
+"zugänglicher Quellcode",42.410,3,3,41.922,0.013
+"ursprüngliche Software",42.410,3,3,41.922,0.013
+"soziale Entscheidung",42.200,3,4,41.922,0.017
+"bestimmte Lizenz",42.200,3,4,41.922,0.017
+"proprietäre Lizenz",42.200,3,4,41.922,0.017
+"geschriebene Software",42.200,3,4,41.922,0.017
+"kommerzielle Tätigkeit",42.200,3,4,41.922,0.017
+"pädagogisches Werk",42.200,3,4,41.922,0.017
+"Übersetzung des Begriffs",42.200,3,4,41.922,0.017
+"kundenspezifische Software",42.040,3,5,41.922,0.022
+"freie Weitergabe",42.040,3,5,41.922,0.022
+"Weitergabe der Software",41.880,3,6,41.922,0.026
+"Secures Boot",41.670,3,7,41.922,0.030
+"eigene Änderung",41.670,3,7,41.922,0.030
+"offizielle Definition",41.510,3,8,41.922,0.035
+"materielles Objekt",41.510,3,8,41.922,0.035
+"schlechter Ort",41.150,3,10,41.922,0.043
+"modifizierte Variante",41.150,3,10,41.922,0.043
+"Nutzer der Software",40.840,3,12,41.922,0.052
+"soziale Solidarität",40.840,3,12,41.922,0.052
+"Creative Commons",40.180,5,177,69.870,0.765
+"voller Funktionsumfang",39.980,4,98,55.896,0.423
+"enthaltene Information",39.750,7,344,97.819,1.486
+"Anpassung der Software",39.670,3,19,41.922,0.082
+"eingetragene Marke",39.390,5,185,69.870,0.799
+"gebräuchlicher Begriff",39.200,3,22,41.922,0.095
+"Kopie der Software",39.060,3,23,41.922,0.099
+"eigener Zweck",36.420,5,219,69.870,0.946
+"gute Dienstleistung",36.220,3,43,41.922,0.186
+"ethische Frage",35.470,4,140,55.896,0.605
+"Version der Software",34.590,3,56,41.922,0.242
+"soziale Bewegung",34.530,7,431,97.819,1.862
+"genaue Definition",33.640,3,64,41.922,0.277
+"Nutzung der Software",33.400,3,66,41.922,0.285
+"zunehmende Anzahl",31.010,3,89,41.922,0.385
+"große Sorgfalt",30.980,7,507,97.819,2.190
+"freie Nutzung",30.360,3,96,41.922,0.415
+"praktischer Nutzen",30.040,4,207,55.896,0.894
+"andere Anforderung",29.540,3,105,41.922,0.454
+"praktische Frage",29.100,3,110,41.922,0.475
+"Online --",28.950,2,0,27.948,0.000
+"02 oss",28.950,2,0,27.948,0.000
+"Hunnenbarg 17a",28.950,2,0,27.948,0.000
+"1x1 des Lizenzmanagements",28.950,2,0,27.948,0.000
+"freier Abspielsoftware",28.950,2,0,27.948,0.000
+"Abteilung bit",28.950,2,0,27.948,0.000
+"geliehenes Adjektiv",28.950,2,0,27.948,0.000
+"geeignete Alias-funktion",28.950,2,0,27.948,0.000
+"Anfang der Computerwelt",28.950,2,0,27.948,0.000
+"Anhänger Freier Software",28.950,2,0,27.948,0.000
+"Anhänger der Freien-software-bewegung",28.950,2,0,27.948,0.000
+"Anmerkung des Übersetzungsteams",28.950,2,0,27.948,0.000
+"Initial Announcement",28.950,2,0,27.948,0.000
+"vereinender Ansatz",28.950,2,0,27.948,0.000
+"Linux Anwenderhandbuch",28.950,2,0,27.948,0.000
+"Copyleft Anwendung",28.950,2,0,27.948,0.000
+"gute internationale Anwendung",28.950,2,0,27.948,0.000
+"bestimmtes Anwendungsgebiet",28.950,2,0,27.948,0.000
+"vorheriges Argument",28.950,2,0,27.948,0.000
+"Art Geschriebener Werke",28.950,2,0,27.948,0.000
+"Fsf Associate",28.950,2,0,27.948,0.000
+"Aufgabe der Geschäftsstellenleiterin",28.950,2,0,27.948,0.000
+"Aufhebung der Alten Lizenz",28.950,2,0,27.948,0.000
+"Aufmerksamkeit der Jeweiligen Software",28.950,2,0,27.948,0.000
+"verschwenderischer Aufwand",28.950,2,0,27.948,0.000
+"staatliche Ausfuhrkontrollbestimmung",28.950,2,0,27.948,0.000
+"einfaches Ausführen",28.950,2,0,27.948,0.000
+"Ausführung der Einzelnen Software",28.950,2,0,27.948,0.000
+"ungehinderter Austausch",28.950,2,0,27.948,0.000
+"Lgpl Bsd",28.950,2,0,27.948,0.000
+"Bandbreite Möglicher Beschränkungen",28.950,2,0,27.948,0.000
+"Bedeutung der Al",28.950,2,0,27.948,0.000
+"uneinheitliche Bedienoberfläche",28.950,2,0,27.948,0.000
+"Befürworter Freier Software",28.950,2,0,27.948,0.000
+"Belang der Freie-software-gemeinschaft",28.950,2,0,27.948,0.000
+"Beleuchtung der Gpl",28.950,2,0,27.948,0.000
+"Benutzer Freier Betriebssysteme",28.950,2,0,27.948,0.000
+"Benutzer der Wichtigeren Freien Betriebssysteme",28.950,2,0,27.948,0.000
+"alleiniger Benutzer",28.950,2,0,27.948,0.000
+"Benutzung Freier Software",28.950,2,0,27.948,0.000
+"Beschreibung der Gemachten Änderungen",28.950,2,0,27.948,0.000
+"installierbares freies Betriebssystem",28.950,2,0,27.948,0.000
+"unfreies Betriebssystem",28.950,2,0,27.948,0.000
+"wichtiges freies Betriebssystem",28.950,2,0,27.948,0.000
+"Projekt Bezahlung",28.950,2,0,27.948,0.000
+"Spak Buch",28.950,2,0,27.948,0.000
+"starke Business-case",28.950,2,0,27.948,0.000
+"verschleierter Code",28.950,2,0,27.948,0.000
+"verwundbarer Code",28.950,2,0,27.948,0.000
+"kommerzieller Compiler",28.950,2,0,27.948,0.000
+"Computersystem Ausgelieferten Software",28.950,2,0,27.948,0.000
+"schwaches Copyleft",28.950,2,0,27.948,0.000
+"vorhandenes Copylefts",28.950,2,0,27.948,0.000
+"Copyright-regelung Auferlegten Beschränkungen",28.950,2,0,27.948,0.000
+"allgemeine Copyright-regelung",28.950,2,0,27.948,0.000
+"Copyright der Fsf",28.950,2,0,27.948,0.000
+"S Copyright",28.950,2,0,27.948,0.000
+"Copyrightinhaber des Hinzuzufügenden Quellcodes",28.950,2,0,27.948,0.000
+"ursprünglicher Copyrightinhaber",28.950,2,0,27.948,0.000
+"Datenverarbeitung der Menschen",28.950,2,0,27.948,0.000
+"Design Freier Software",28.950,2,0,27.948,0.000
+"Development Frameworks",28.950,2,0,27.948,0.000
+"Qt Development",28.950,2,0,27.948,0.000
+"bislange freie Dienstleistung",28.950,2,0,27.948,0.000
+"freie Dienstleistung",28.950,2,0,27.948,0.000
+"Dienstleistungsaspekt der Softwareentwicklung",28.950,2,0,27.948,0.000
+"Kongressabgeordnete Edgar",28.950,2,0,27.948,0.000
+"ungewöhnliches Eigentümerrecht",28.950,2,0,27.948,0.000
+"Einfluss der Freien-software-bewegung",28.950,2,0,27.948,0.000
+"Einführung einer Lizenzänderung",28.950,2,0,27.948,0.000
+"Einhaltung der Werte",28.950,2,0,27.948,0.000
+"Einschränkung Anderer Software",28.950,2,0,27.948,0.000
+"Einwilligung des Instituts",28.950,2,0,27.948,0.000
+"Advertising Enquiry",28.950,2,0,27.948,0.000
+"Entstehung der Oss",28.950,2,0,27.948,0.000
+"privater Entwickler",28.950,2,0,27.948,0.000
+"Entwicklung eines Freien Betriebssystems",28.950,2,0,27.948,0.000
+"darauffolgende rasante Entwicklung",28.950,2,0,27.948,0.000
+"überlegenes Entwicklungsmodell",28.950,2,0,27.948,0.000
+"Erweiterung der Copyright-gesetze",28.950,2,0,27.948,0.000
+"Erweiterung der Kategorie",28.950,2,0,27.948,0.000
+"unabhängige Erweiterung",28.950,2,0,27.948,0.000
+"Fassung der Bsd",28.950,2,0,27.948,0.000
+"Finanzmittel der Fsf",28.950,2,0,27.948,0.000
+"Form der Gpl",28.950,2,0,27.948,0.000
+"Formalismus der Freien Software",28.950,2,0,27.948,0.000
+"weiter technischer Fortschritt",28.950,2,0,27.948,0.000
+"Floss-manual Foundation",28.950,2,0,27.948,0.000
+"Software Foundation",28.950,2,0,27.948,0.000
+"Frage der Systemstabilität",28.950,2,0,27.948,0.000
+"ernsthafte Fraktur",28.950,2,0,27.948,0.000
+"Freigabe der Änderungen",28.950,2,0,27.948,0.000
+"Freigabe des Quellcodes",28.950,2,0,27.948,0.000
+"Freiheit Bedeutsamen Ziels",28.950,2,0,27.948,0.000
+"Gruppe Freiheit",28.950,2,0,27.948,0.000
+"andere wesentliche Freiheit",28.950,2,0,27.948,0.000
+"implizierte Freiheit",28.950,2,0,27.948,0.000
+"wahrgenommene Freiheit",28.950,2,0,27.948,0.000
+"Werkderivate Funktion",28.950,2,0,27.948,0.000
+"Funktionsweise eines Programms",28.950,2,0,27.948,0.000
+"Förderer des Bewusstseins",28.950,2,0,27.948,0.000
+"andere Gnu-lizenz",28.950,2,0,27.948,0.000
+"offizielles Gnu-paket",28.950,2,0,27.948,0.000
+"Programm Gnu-software",28.950,2,0,27.948,0.000
+"Gpl V3",28.950,2,0,27.948,0.000
+"Oss Gpl",28.950,2,0,27.948,0.000
+"Projekt Gpl",28.950,2,0,27.948,0.000
+"Wirtschaftslexikon Gabler",28.950,2,0,27.948,0.000
+"Garantie der Unversehrtheit",28.950,2,0,27.948,0.000
+"Gebrauch der Eigenen Software",28.950,2,0,27.948,0.000
+"amoralischer Gebrauch",28.950,2,0,27.948,0.000
+"Unternehmen Gebühr",28.950,2,0,27.948,0.000
+"Geschichte der Oss",28.950,2,0,27.948,0.000
+"Geschäftsmodell der Lizenzierung",28.950,2,0,27.948,0.000
+"Richard Glass",28.950,2,0,27.948,0.000
+"Robert Glass",28.950,2,0,27.948,0.000
+"Glaube der Freien Software",28.950,2,0,27.948,0.000
+"Gnade des Herstellers",28.950,2,0,27.948,0.000
+"Wilfried Grommen",28.950,2,0,27.948,0.000
+"Rechtsliche Grundlage",28.950,2,0,27.948,0.000
+"Gründer der Fsf",28.950,2,0,27.948,0.000
+"Gründung des Gnu-projekts",28.950,2,0,27.948,0.000
+"errungenes geistiges Gut",28.950,2,0,27.948,0.000
+"verknapptes Gut",28.950,2,0,27.948,0.000
+"unveränderter Haftungsausschluss",28.950,2,0,27.948,0.000
+"Webdesigner Handbuch",28.950,2,0,27.948,0.000
+"Hardwareunterstützung Freier Betriebssysteme",28.950,2,0,27.948,0.000
+"Hauptaufgabe der Fsf",28.950,2,0,27.948,0.000
+"Herausgeber Proprietärer Software",28.950,2,0,27.948,0.000
+"globale Hilfsbereitschaft",28.950,2,0,27.948,0.000
+"Mako Hill",28.950,2,0,27.948,0.000
+"entfachte Idee",28.950,2,0,27.948,0.000
+"Initiative Freier Software",28.950,2,0,27.948,0.000
+"weite Inkompatibilität",28.950,2,0,27.948,0.000
+"Instrument Ungerechter Macht",28.950,2,0,27.948,0.000
+"Instrument des Positiven Sozialen Wandels",28.950,2,0,27.948,0.000
+"Ogg-freundliche Internetseite",28.950,2,0,27.948,0.000
+"Interpretation des Copylefts",28.950,2,0,27.948,0.000
+"starke Interpretation",28.950,2,0,27.948,0.000
+"California Irvine",28.950,2,0,27.948,0.000
+"Arbeit Kapital",28.950,2,0,27.948,0.000
+"ganzes wissenschaftliches Kapitel",28.950,2,0,27.948,0.000
+"wissenschaftliches Kapitel",28.950,2,0,27.948,0.000
+"Christopher Kelty",28.950,2,0,27.948,0.000
+"Kernarbeit der Freien-software-bewegung",28.950,2,0,27.948,0.000
+"proprietärer Kernel",28.950,2,0,27.948,0.000
+"geringfügige Klarstellung",28.950,2,0,27.948,0.000
+"weite geringfügige Klarstellung",28.950,2,0,27.948,0.000
+"alternative Kompromissbezeichnung",28.950,2,0,27.948,0.000
+"jetzige Kompromissebene",28.950,2,0,27.948,0.000
+"softwarebezogene Konferenz",28.950,2,0,27.948,0.000
+"andauernder innerer Konflikt",28.950,2,0,27.948,0.000
+"Koordination Freier Software",28.950,2,0,27.948,0.000
+"Wsis Koordinierungskreis",28.950,2,0,27.948,0.000
+"Kopie eines Programms",28.950,2,0,27.948,0.000
+"Kopie eines Proprietären Programms",28.950,2,0,27.948,0.000
+"autorisierte Kopie",28.950,2,0,27.948,0.000
+"gebrachte Kopie",28.950,2,0,27.948,0.000
+"unautorisierte Kopie",28.950,2,0,27.948,0.000
+"alleiniges Kopieren",28.950,2,0,27.948,0.000
+"Kriterium Freier Software",28.950,2,0,27.948,0.000
+"Vergleich Kriterium",28.950,2,0,27.948,0.000
+"Gpl Lgpl",28.950,2,0,27.948,0.000
+"Leistungsfähigkeit des Internets",28.950,2,0,27.948,0.000
+"Gnu Lesser",28.950,2,0,27.948,0.000
+"Distrubution License",28.950,2,0,27.948,0.000
+"Software Licensing",28.950,2,0,27.948,0.000
+"proprietärer Linux-netzwerkkartentreiber",28.950,2,0,27.948,0.000
+"Lizenz der Gnu-software",28.950,2,0,27.948,0.000
+"OSI-anerkannte Lizenz",28.950,2,0,27.948,0.000
+"angepasste Lizenz",28.950,2,0,27.948,0.000
+"beruhende Lizenz",28.950,2,0,27.948,0.000
+"geregelte Lizenz",28.950,2,0,27.948,0.000
+"häufige genutzte Lizenz",28.950,2,0,27.948,0.000
+"verbreitete Lizenz",28.950,2,0,27.948,0.000
+"virale Lizenz",28.950,2,0,27.948,0.000
+"vorteilhafte Lizenz",28.950,2,0,27.948,0.000
+"anderer Lizenzarten",28.950,2,0,27.948,0.000
+"Unmittelbare Lizenzerteilung",28.950,2,0,27.948,0.000
+"Lizenzierung der Zugriffe",28.950,2,0,27.948,0.000
+"verständlicher Lizenztext",28.950,2,0,27.948,0.000
+"individuelle Lizenzvereinbarung",28.950,2,0,27.948,0.000
+"nachträgliche Lizenzänderung",28.950,2,0,27.948,0.000
+"weite Lobbyarbeit",28.950,2,0,27.948,0.000
+"Bsd Mpl",28.950,2,0,27.948,0.000
+"Software Marco",28.950,2,0,27.948,0.000
+"übliches Marktgeschehen",28.950,2,0,27.948,0.000
+"David Mcgowan",28.950,2,0,27.948,0.000
+"Mehrheit der Osi-anerkannten Lizenzen",28.950,2,0,27.948,0.000
+"Associate Membership",28.950,2,0,27.948,0.000
+"detaillierte Metrik",28.950,2,0,27.948,0.000
+"finanzierbarer Mikrocomputer",28.950,2,0,27.948,0.000
+"gleicher Mikroprozessor",28.950,2,0,27.948,0.000
+"Mitglied der Freie-software-gemeinschaft",28.950,2,0,27.948,0.000
+"Modifikation des Quellcodes",28.950,2,0,27.948,0.000
+"eigene Modifikation",28.950,2,0,27.948,0.000
+"einschränkende Modifikation",28.950,2,0,27.948,0.000
+"jeweilige Modifikation",28.950,2,0,27.948,0.000
+"lizenzierter Modul",28.950,2,0,27.948,0.000
+"lizenzierter vorhandener Modul",28.950,2,0,27.948,0.000
+"Monopolstellung Proprietärer Anbieter",28.950,2,0,27.948,0.000
+"Möglichkeit der Freigabe",28.950,2,0,27.948,0.000
+"Nachahmung Technischer Lösungsansätze",28.950,2,0,27.948,0.000
+"Nachteil des Proprietären Betriebssystems",28.950,2,0,27.948,0.000
+"Name der Modifizierten Version",28.950,2,0,27.948,0.000
+"Name des Originalprogramms",28.950,2,0,27.948,0.000
+"Nebenprodukt des Technologischen Wandels",28.950,2,0,27.948,0.000
+"Neutralität der Weitergabe",28.950,2,0,27.948,0.000
+"Nbs Northern",28.950,2,0,27.948,0.000
+"inhärente Notwendigkeit",28.950,2,0,27.948,0.000
+"moralische Notwendigkeit",28.950,2,0,27.948,0.000
+"Nutzung eines Programms",28.950,2,0,27.948,0.000
+"gebundene Nutzung",28.950,2,0,27.948,0.000
+"Nutzungsbedingung des Programms",28.950,2,0,27.948,0.000
+"vorgesehene Nutzungsbeschränkung",28.950,2,0,27.948,0.000
+"verschiedener Os",28.950,2,0,27.948,0.000
+"Land Oss",28.950,2,0,27.948,0.000
+"verfügbares Oss",28.950,2,0,27.948,0.000
+"Offenlegung der Modifikationen",28.950,2,0,27.948,0.000
+"selbsternanntes Open-source-programm",28.950,2,0,27.948,0.000
+"Begriff Open-source-software",28.950,2,0,27.948,0.000
+"sämtliche Open-source-software",28.950,2,0,27.948,0.000
+"jeweilige Opposition",28.950,2,0,27.948,0.000
+"Pflicht der Fehlerbeseitigung",28.950,2,0,27.948,0.000
+"Philosophie der Bewegung",28.950,2,0,27.948,0.000
+"apolitische Philosophie",28.950,2,0,27.948,0.000
+"Position der Freien-software-bewegung",28.950,2,0,27.948,0.000
+"Praxis der Freien Digitalen Welt",28.950,2,0,27.948,0.000
+"Prinzip einer Wissenschaftlichen Zusammenarbeit",28.950,2,0,27.948,0.000
+"selektives Privilegium",28.950,2,0,27.948,0.000
+"subtiles Problem",28.950,2,0,27.948,0.000
+"verschiedenes praktisches Problem",28.950,2,0,27.948,0.000
+"Produktneutralität der Lizenz",28.950,2,0,27.948,0.000
+"deutliche Profitspanne",28.950,2,0,27.948,0.000
+"Patron Programm",28.950,2,0,27.948,0.000
+"binäres ausführbares Programm",28.950,2,0,27.948,0.000
+"Programmieren Alternativer Software",28.950,2,0,27.948,0.000
+"Programmierer Freier Software",28.950,2,0,27.948,0.000
+"gewissenhafter Programmierer",28.950,2,0,27.948,0.000
+"einsetzbare Programmversion",28.950,2,0,27.948,0.000
+"Gnu Projekt",28.950,2,0,27.948,0.000
+"Projekt der Fsf",28.950,2,0,27.948,0.000
+"proprietäres Projekt",28.950,2,0,27.948,0.000
+"Quellcode der Ursprungssoftware",28.950,2,0,27.948,0.000
+"hinzuzufügender Quellcode",28.950,2,0,27.948,0.000
+"originärer Quellcode",28.950,2,0,27.948,0.000
+"-- Quelle",28.950,2,0,27.948,0.000
+"Recht des Ursprünglichen Entwicklers",28.950,2,0,27.948,0.000
+"Arbeitsgruppe Rechtsrahmen",28.950,2,0,27.948,0.000
+"Rechtsrahmen des Cloud",28.950,2,0,27.948,0.000
+"etablierte Reform",28.950,2,0,27.948,0.000
+"explizite Registrierung",28.950,2,0,27.948,0.000
+"Rentabilität Freier Software",28.950,2,0,27.948,0.000
+"Ag Spak",28.950,2,0,27.948,0.000
+"Schaffung der Neuen Version",28.950,2,0,27.948,0.000
+"Schlussfolgerung des Punktes",28.950,2,0,27.948,0.000
+"Frau Schmidt--löffler",28.950,2,0,27.948,0.000
+"generelle Schnittstellenfreigabe",28.950,2,0,27.948,0.000
+"Seite der Fraktur",28.950,2,0,27.948,0.000
+"Service Filiale",28.950,2,0,27.948,0.000
+"offener Service",28.950,2,0,27.948,0.000
+"Sichtweise der Entwickler",28.950,2,0,27.948,0.000
+"Sinn der Maßnahmen",28.950,2,0,27.948,0.000
+"externer Software-angriff",28.950,2,0,27.948,0.000
+"eigene Software-verbesserung",28.950,2,0,27.948,0.000
+"proprietäre Software-welt",28.950,2,0,27.948,0.000
+"Freiheitsgewährend Software",28.950,2,0,27.948,0.000
+"Freiheitsgewährende Software",28.950,2,0,27.948,0.000
+"Libre Software",28.950,2,0,27.948,0.000
+"Software der Öffentlichkeit",28.950,2,0,27.948,0.000
+"Software des Gnu-projekts",28.950,2,0,27.948,0.000
+"Source Software",28.950,2,0,27.948,0.000
+"abgeleitete Software",28.950,2,0,27.948,0.000
+"freiheitsentziehende Software",28.950,2,0,27.948,0.000
+"freizügige Software",28.950,2,0,27.948,0.000
+"restliche Software",28.950,2,0,27.948,0.000
+"verfügbare freie Software",28.950,2,0,27.948,0.000
+"weitergegebene Software",28.950,2,0,27.948,0.000
+"zugreifende Software",28.950,2,0,27.948,0.000
+"quelloffene Softwareentwicklung",28.950,2,0,27.948,0.000
+"freie Softwaregemeinschaft",28.950,2,0,27.948,0.000
+"gleiche Softwarekategorie",28.950,2,0,27.948,0.000
+"verschiedene Softwarekategorie",28.950,2,0,27.948,0.000
+"bestimmte Softwarelizenz",28.950,2,0,27.948,0.000
+"verschiedene freie Softwarelizenz",28.950,2,0,27.948,0.000
+"vorhandene freie Softwarelizenz",28.950,2,0,27.948,0.000
+"auftauchendes Softwarepatent",28.950,2,0,27.948,0.000
+"einzelnes Softwareprogramm",28.950,2,0,27.948,0.000
+"bereitgestellte Softwareversion",28.950,2,0,27.948,0.000
+"Cygnus Solutions",28.950,2,0,27.948,0.000
+"hanseatische Sparkassenakademie",28.950,2,0,27.948,0.000
+"Richard Stallmann",28.950,2,0,27.948,0.000
+"José State",28.950,2,0,27.948,0.000
+"nichtstaatliche Stiftung",28.950,2,0,27.948,0.000
+"Studieren der Arbeitsweise",28.950,2,0,27.948,0.000
+"Studium der Funktionsweise",28.950,2,0,27.948,0.000
+"Stärke des Vorhandenen Copylefts",28.950,2,0,27.948,0.000
+"duplizierte Systemprogrammierung",28.950,2,0,27.948,0.000
+"perverse Terminologie",28.950,2,0,27.948,0.000
+"vorheriges Testen",28.950,2,0,27.948,0.000
+"Themenbereich der Praktischen Wirtschaftsinformatik",28.950,2,0,27.948,0.000
+"Ken Thompson",28.950,2,0,27.948,0.000
+"Tod eines Autors",28.950,2,0,27.948,0.000
+"Transformation des Quelltextes",28.950,2,0,27.948,0.000
+"fehlende Treiberunterstützung",28.950,2,0,27.948,0.000
+"Umfang der Jeweiligen Modifikationen",28.950,2,0,27.948,0.000
+"Umgehen der Vorgesehenen Nutzungsbeschränkungen",28.950,2,0,27.948,0.000
+"Umgehung Wirksamer Kopierschutzmaßnahmen",28.950,2,0,27.948,0.000
+"Umkehrung des Copyrights",28.950,2,0,27.948,0.000
+"Umkreis des Gnu-projekts",28.950,2,0,27.948,0.000
+"Umlauf Gebrachter Kopie",28.950,2,0,27.948,0.000
+"Umsetzung Praktischer Projekte",28.950,2,0,27.948,0.000
+"kooperative Umwelt",28.950,2,0,27.948,0.000
+"Untergrabung des Copyrights",28.950,2,0,27.948,0.000
+"freie Unterroutine",28.950,2,0,27.948,0.000
+"verfügbare freie Unterroutine",28.950,2,0,27.948,0.000
+"Unterstützer der Bewegung",28.950,2,0,27.948,0.000
+"Unterstützer der Freien-software-bewegung",28.950,2,0,27.948,0.000
+"Unterstützer der Freien Software",28.950,2,0,27.948,0.000
+"Unterstützung des Gnu-projekts",28.950,2,0,27.948,0.000
+"Untersuchung der Gpl",28.950,2,0,27.948,0.000
+"Unversehrtheit des Originären Quellcodes",28.950,2,0,27.948,0.000
+"Urfassung der Bsd",28.950,2,0,27.948,0.000
+"Urheber eines Copylefts",28.950,2,0,27.948,0.000
+"Lgpl V3",28.950,2,0,27.948,0.000
+"Veranschaulichung des Spruches",28.950,2,0,27.948,0.000
+"Verbreiten des Binärcodes",28.950,2,0,27.948,0.000
+"Verbreitung Modifizierter Versionen",28.950,2,0,27.948,0.000
+"lizenzgebührenfreie Verbreitung",28.950,2,0,27.948,0.000
+"finanzieller Verdienst",28.950,2,0,27.948,0.000
+"funktionseinschränkendes Verfahren",28.950,2,0,27.948,0.000
+"Version der Gnu-lizenzen",28.950,2,0,27.948,0.000
+"Version eines Dritten",28.950,2,0,27.948,0.000
+"unfreie Version",28.950,2,0,27.948,0.000
+"unmodifizierte Version",28.950,2,0,27.948,0.000
+"wiederveröffentlichte Version",28.950,2,0,27.948,0.000
+"Vertreter Freier Software",28.950,2,0,27.948,0.000
+"Vertreter der Freie-software-bewegung",28.950,2,0,27.948,0.000
+"Vertreter des Zivilgesellschaftlichen Wsis",28.950,2,0,27.948,0.000
+"Vertreter des Zivilgesellschaftlichen Wsis Koordinierungskreises",28.950,2,0,27.948,0.000
+"proprietäre Verwendung",28.950,2,0,27.948,0.000
+"Verändern der Bibliotheken",28.950,2,0,27.948,0.000
+"Verändern eines Programms",28.950,2,0,27.948,0.000
+"Veränderung der Programme",28.950,2,0,27.948,0.000
+"Veröffentlichen des Quellcodes",28.950,2,0,27.948,0.000
+"Veröffentlichung der Aktuellen Version",28.950,2,0,27.948,0.000
+"Edward Viesel",28.950,2,0,27.948,0.000
+"Vorzug eines Programmes",28.950,2,0,27.948,0.000
+"Wsis Koordinierungskreises",28.950,2,0,27.948,0.000
+"zivilgesellschaftlicher Wsis",28.950,2,0,27.948,0.000
+"Wahl der Lizenz",28.950,2,0,27.948,0.000
+"Wandel der It",28.950,2,0,27.948,0.000
+"positiver sozialer Wandel",28.950,2,0,27.948,0.000
+"populärer Webbrowser",28.950,2,0,27.948,0.000
+"Weitergabe der Lizenztext",28.950,2,0,27.948,0.000
+"kommerzielle Weiterverbreitung",28.950,2,0,27.948,0.000
+"freie digitale Welt",28.950,2,0,27.948,0.000
+"Copyleft-lizenziertes Werk",28.950,2,0,27.948,0.000
+"freies kulturelles Werk",28.950,2,0,27.948,0.000
+"weiter Wettbewerber",28.950,2,0,27.948,0.000
+"praktische Wirtschaftsinformatik",28.950,2,0,27.948,0.000
+"eigener Wirtschaftsmarkt",28.950,2,0,27.948,0.000
+"Respects Your",28.950,2,0,27.948,0.000
+"Zahl der Kopien",28.950,2,0,27.948,0.000
+"Zerstörung der Digitalen Zukunft",28.950,2,0,27.948,0.000
+"Zitat des Professors",28.950,2,0,27.948,0.000
+"Serverlizenz Zugriffslizenz",28.950,2,0,27.948,0.000
+"Zusammenführung der Verfügbaren Freien Unterroutinen",28.950,2,0,27.948,0.000
+"Enquiring About",28.950,2,0,27.948,0.000
+"Dateiderivate Änderung",28.950,2,0,27.948,0.000
+"Änderung des Quelltextes",28.950,2,0,27.948,0.000
+"bewusste Übergabe",28.950,2,0,27.948,0.000
+"Überlegenheit des Entwicklungsprozesses",28.950,2,0,27.948,0.000
+"Abstürzen des Systems",28.830,2,1,27.948,0.004
+"Anbieter Proprietärer Software",28.830,2,1,27.948,0.004
+"proprietärer Anbieter",28.830,2,1,27.948,0.004
+"reine Ausführung",28.830,2,1,27.948,0.004
+"kommerzielle Ausnutzung",28.830,2,1,27.948,0.004
+"Befürworter Neuer Technologien",28.830,2,1,27.948,0.004
+"Belang Freier Software",28.830,2,1,27.948,0.004
+"digitale Beschränkungsverwaltung",28.830,2,1,27.948,0.004
+"Betonung der Überlegenheit",28.830,2,1,27.948,0.004
+"UNIX-ähnliches Betriebssystem",28.830,2,1,27.948,0.004
+"Frau Burmester",28.830,2,1,27.948,0.004
+"starkes Copyleft",28.830,2,1,27.948,0.004
+"schwerwiegender Einfluss",28.830,2,1,27.948,0.004
+"schnelle Erreichung",28.830,2,1,27.948,0.004
+"Your Freedom",28.830,2,1,27.948,0.004
+"Freiheit der Software",28.830,2,1,27.948,0.004
+"Gutdünken des Herstellers",28.830,2,1,27.948,0.004
+"Herstellung der Software",28.830,2,1,27.948,0.004
+"temporärer Kompromiss",28.830,2,1,27.948,0.004
+"wirksame Kopierschutzmaßnahme",28.830,2,1,27.948,0.004
+"Leistungsfähigkeit der Webseite",28.830,2,1,27.948,0.004
+"Artistic License",28.830,2,1,27.948,0.004
+"alternative Lizenz",28.830,2,1,27.948,0.004
+"bisherige Lizenz",28.830,2,1,27.948,0.004
+"individuelle Lizenz",28.830,2,1,27.948,0.004
+"Cloud Management",28.830,2,1,27.948,0.004
+"Möglichkeit der Internetnutzung",28.830,2,1,27.948,0.004
+"unbeabsichtigtes Nebenprodukt",28.830,2,1,27.948,0.004
+"Nutzung Freier Software",28.830,2,1,27.948,0.004
+"beschriebene Organisation",28.830,2,1,27.948,0.004
+"Pflicht des Lizenznehmers",28.830,2,1,27.948,0.004
+"hinterhältiger Plan",28.830,2,1,27.948,0.004
+"spezielles Privilegium",28.830,2,1,27.948,0.004
+"gute Profitabilität",28.830,2,1,27.948,0.004
+"andere Programmänderung",28.830,2,1,27.948,0.004
+"Präsident der Fsfe",28.830,2,1,27.948,0.004
+"gekaufter Rechner",28.830,2,1,27.948,0.004
+"deutsche Regierungsdelegation",28.830,2,1,27.948,0.004
+"akzeptable Richtlinie",28.830,2,1,27.948,0.004
+"Forscher Robert",28.830,2,1,27.948,0.004
+"Schutz der Software",28.830,2,1,27.948,0.004
+"weiterentwickelte Software",28.830,2,1,27.948,0.004
+"Michael Stehmann",28.830,2,1,27.948,0.004
+"Verwendung Freier Software",28.830,2,1,27.948,0.004
+"Veränderung der Software",28.830,2,1,27.948,0.004
+"andere Wahlmöglichkeit",28.830,2,1,27.948,0.004
+"Wahrung des Geschäftsgeheimnisses",28.830,2,1,27.948,0.004
+"Weitergabe des Quellcodes",28.830,2,1,27.948,0.004
+"verbundene Welt",28.830,2,1,27.948,0.004
+"Ziel des Jeweiligen Unternehmens",28.830,2,1,27.948,0.004
+"umfangreiche Überlegung",28.830,2,1,27.948,0.004
+"dauerhafte Abhängigkeit",28.720,2,2,27.948,0.009
+"Arbeit der Fsf",28.720,2,2,27.948,0.009
+"Art der Software",28.720,2,2,27.948,0.009
+"Basis Freier Software",28.720,2,2,27.948,0.009
+"klassischer Beitrag",28.720,2,2,27.948,0.009
+"struktureller Belang",28.720,2,2,27.948,0.009
+"große Benutzergruppe",28.720,2,2,27.948,0.009
+"sprachliche Bezeichnung",28.720,2,2,27.948,0.009
+"geltendes Copyright",28.720,2,2,27.948,0.009
+"kopiergeschützte Dvd",28.720,2,2,27.948,0.009
+"Forderung der Zivilgesellschaft",28.720,2,2,27.948,0.009
+"Form des Programms",28.720,2,2,27.948,0.009
+"grundlegender Glaube",28.720,2,2,27.948,0.009
+"Georg Greve",28.720,2,2,27.948,0.009
+"reines öffentliches Gut",28.720,2,2,27.948,0.009
+"Matthias Kirschner",28.720,2,2,27.948,0.009
+"wachsende Liste",28.720,2,2,27.948,0.009
+"einzelne Lizenz",28.720,2,2,27.948,0.009
+"verwendete Lizenz",28.720,2,2,27.948,0.009
+"Möglichkeit des Kostenlosen Downloads",28.720,2,2,27.948,0.009
+"Nutzen der Gemeinschaft",28.720,2,2,27.948,0.009
+"freie Programmiersprache",28.720,2,2,27.948,0.009
+"Quelltext eines Programms",28.720,2,2,27.948,0.009
+"Julia Schmidt",28.720,2,2,27.948,0.009
+"Berkeley Software",28.720,2,2,27.948,0.009
+"Quelloffene Software",28.720,2,2,27.948,0.009
+"ausgelieferte Software",28.720,2,2,27.948,0.009
+"modifizierte Software",28.720,2,2,27.948,0.009
+"englischsprachiger Teil",28.720,2,2,27.948,0.009
+"vorhandener Vermerk",28.720,2,2,27.948,0.009
+"Version der Gpl",28.720,2,2,27.948,0.009
+"technisches Ziel",28.720,2,2,27.948,0.009
+"Zustimmung des Instituts",28.720,2,2,27.948,0.009
+"Übernahme der Rechte",28.720,2,2,27.948,0.009
+"offensichtliche Bedeutung",28.600,2,3,27.948,0.013
+"genaue Beleuchtung",28.600,2,3,27.948,0.013
+"bevorzugtes Betriebssystem",28.600,2,3,27.948,0.013
+"proprietäres Betriebssystem",28.600,2,3,27.948,0.013
+"elementare Forderung",28.600,2,3,27.948,0.013
+"binäre Form",28.600,2,3,27.948,0.013
+"mangelnde Kompatibilität",28.600,2,3,27.948,0.013
+"große Lizenz",28.600,2,3,27.948,0.013
+"Lizenzierung der Software",28.600,2,3,27.948,0.013
+"Privatsphäre des Nutzers",28.600,2,3,27.948,0.013
+"entsprechender Quelltext",28.600,2,3,27.948,0.013
+"venezolanische Regierung",28.600,2,3,27.948,0.013
+"Sicht der Anwender",28.600,2,3,27.948,0.013
+"freies Softwareprojekt",28.600,2,3,27.948,0.013
+"fehlender Support",28.600,2,3,27.948,0.013
+"Unrast Verlag",28.600,2,3,27.948,0.013
+"genaue Veränderung",28.600,2,3,27.948,0.013
+"einfache Wahl",28.600,2,3,27.948,0.013
+"schnelle Zunahme",28.600,2,3,27.948,0.013
+"alternativer Begriff",28.460,2,4,27.948,0.017
+"Bereich des Marktes",28.460,2,4,27.948,0.017
+"Bestandteil der Software",28.460,2,4,27.948,0.017
+"weite interessante Frage",28.460,2,4,27.948,0.017
+"gewährte Freiheit",28.460,2,4,27.948,0.017
+"vernünftige Gesellschaft",28.460,2,4,27.948,0.017
+"alte Lizenz",28.460,2,4,27.948,0.017
+"gleiche Lizenz",28.460,2,4,27.948,0.017
+"Autor Marco",28.460,2,4,27.948,0.017
+"Stefan Meretz",28.460,2,4,27.948,0.017
+"geringe Modifikation",28.460,2,4,27.948,0.017
+"folgender Nachteil",28.460,2,4,27.948,0.017
+"besondere Popularität",28.460,2,4,27.948,0.017
+"bekannte Praxis",28.460,2,4,27.948,0.017
+"relevanter Standard",28.460,2,4,27.948,0.017
+"gemeinfreies Werk",28.460,2,4,27.948,0.017
+"Zug der Veröffentlichung",28.460,2,4,27.948,0.017
+"subjektive Angelegenheit",28.350,2,5,27.948,0.022
+"missverständlicher Begriff",28.350,2,5,27.948,0.022
+"geringe Bekanntheit",28.350,2,5,27.948,0.022
+"hinzugefügte Datei",28.350,2,5,27.948,0.022
+"modifizierte Datei",28.350,2,5,27.948,0.022
+"erkanntes Defizit",28.350,2,5,27.948,0.022
+"beteiligter Entwickler",28.350,2,5,27.948,0.022
+"technischer Lösungsansatz",28.350,2,5,27.948,0.022
+"freier Treiber",28.350,2,5,27.948,0.022
+"kommerzieller Vertrieb",28.350,2,5,27.948,0.022
+"kostenlose Weitergabe",28.350,2,5,27.948,0.022
+"unterschiedliche Vorstellung",28.350,3,119,41.922,0.514
+"zusätzliche Berechtigung",28.240,2,6,27.948,0.026
+"Entwicklung der Gemeinschaft",28.240,2,6,27.948,0.026
+"Fortschritt der Technologie",28.240,2,6,27.948,0.026
+"folgende Lizenz",28.240,2,6,27.948,0.026
+"technologisches Mittel",28.240,2,6,27.948,0.026
+"Ogg Vorbis",28.240,2,6,27.948,0.026
+"Software Projekt",28.240,2,6,27.948,0.026
+"einzelne Software",28.240,2,6,27.948,0.026
+"juristische Unterstützung",28.240,2,6,27.948,0.026
+"rechtlicher Verstoß",28.240,2,6,27.948,0.026
+"bedeutsames Ziel",28.240,2,6,27.948,0.026
+"bestimmte Weise",28.110,3,122,41.922,0.527
+"About A",28.100,2,7,27.948,0.030
+"kleine Auswirkung",28.100,2,7,27.948,0.030
+"Bedingung der Gnu",28.100,2,7,27.948,0.030
+"rechtlicher Begriff",28.100,2,7,27.948,0.030
+"auferlegte Beschränkung",28.100,2,7,27.948,0.030
+"kartografische Darstellung",28.100,2,7,27.948,0.030
+"physisches Ding",28.100,2,7,27.948,0.030
+"grundlegende Freiheit",28.100,2,7,27.948,0.030
+"angemessene Gebühr",28.100,2,7,27.948,0.030
+"Art Geld",28.100,2,7,27.948,0.030
+"verbreitete Version",28.100,2,7,27.948,0.030
+"Aspekt der Nutzung",28.000,2,8,27.948,0.035
+"bemerkenswerte Ausnahme",28.000,2,8,27.948,0.035
+"moralische Entscheidung",28.000,2,8,27.948,0.035
+"globale Gemeinschaft",28.000,2,8,27.948,0.035
+"egoistischer Grund",28.000,2,8,27.948,0.035
+"anderer Kulturraum",28.000,2,8,27.948,0.035
+"jeweilige Lizenz",28.000,2,8,27.948,0.035
+"Nutzung des Werks",28.000,2,8,27.948,0.035
+"Microsoft Server",28.000,2,8,27.948,0.035
+"kurze Wiederholung",28.000,2,8,27.948,0.035
+"englisches Wort",27.950,4,240,55.896,1.037
+"eigene Anpassung",27.890,2,9,27.948,0.039
+"internationale Anwendung",27.890,2,9,27.948,0.039
+"mögliche Beschränkung",27.890,2,9,27.948,0.039
+"unixoides Betriebssystem",27.890,2,9,27.948,0.039
+"ethisches Dilemma",27.890,2,9,27.948,0.039
+"Debian Gnu",27.890,2,9,27.948,0.039
+"Linus Torvalds",27.890,2,9,27.948,0.039
+"zusätzliche Lizenz",27.890,2,9,27.948,0.039
+"genutztes Programm",27.890,2,9,27.948,0.039
+"Prüfung der Inhalte",27.890,2,9,27.948,0.039
+"einheitlicher Rahmen",27.890,2,9,27.948,0.039
+"digitale Rechteverwaltung",27.890,2,9,27.948,0.039
+"alternative Software",27.890,2,9,27.948,0.039
+"sozialer Vorteil",27.890,2,9,27.948,0.039
+"kulturelles Werk",27.890,2,9,27.948,0.039
+"sorgfältige Überlegung",27.890,2,9,27.948,0.039
+"weltweite Beachtung",27.750,2,10,27.948,0.043
+"vollständiger Ersatz",27.750,2,10,27.948,0.043
+"Möglichkeit der Anpassung",27.750,2,10,27.948,0.043
+"wichtige Pflicht",27.750,2,10,27.948,0.043
+"ähnliches Recht",27.750,2,10,27.948,0.043
+"relevante Werbung",27.750,2,10,27.948,0.043
+"zunehmender Wettbewerbsdruck",27.750,2,10,27.948,0.043
+"Wirtschaftswissenschaft der Universität",27.750,2,10,27.948,0.043
+"staatliche Agentur",27.650,2,11,27.948,0.048
+"monetärer Anreiz",27.650,2,11,27.948,0.048
+"komplettes Betriebssystem",27.650,2,11,27.948,0.048
+"erste Definition",27.650,2,11,27.948,0.048
+"eingeschränkte Nutzung",27.650,2,11,27.948,0.048
+"andere Philosophie",27.650,2,11,27.948,0.048
+"privates Programm",27.650,2,11,27.948,0.048
+"Rest der Klasse",27.650,2,11,27.948,0.048
+"mangelnde Sicherheit",27.650,2,11,27.948,0.048
+"komplette Software",27.650,2,11,27.948,0.048
+"Teil der Europäischen Union",27.650,2,11,27.948,0.048
+"Ogg Vorbis",27.650,2,11,27.948,0.048
+"Zustimmung des Rechteinhabers",27.650,2,11,27.948,0.048
+"Entstehung des Werkes",27.540,2,12,27.948,0.052
+"Erfahrung der Autoren",27.540,2,12,27.948,0.052
+"geistiges Gut",27.540,2,12,27.948,0.052
+"selbstständiger Unternehmensberater",27.540,2,12,27.948,0.052
+"organisatorische Basis",27.410,2,13,27.948,0.056
+"Windows Small",27.410,2,13,27.948,0.056
+"sicheres Betriebssystem",27.310,2,14,27.948,0.060
+"betrieblicher Datenschutz",27.310,2,14,27.948,0.060
+"Lego Mindstorms",27.310,2,14,27.948,0.060
+"langjähriges Projekt",27.310,2,14,27.948,0.060
+"Rahmen der Lehrveranstaltung",27.310,2,14,27.948,0.060
+"gültige Regelung",27.310,2,14,27.948,0.060
+"gestellte Software",27.310,2,14,27.948,0.060
+"garantierte Freiheit",27.210,2,15,27.948,0.065
+"Idee der Freiheit",27.210,2,15,27.948,0.065
+"natürliches Interesse",27.210,2,15,27.948,0.065
+"praktische Überlegung",27.210,2,15,27.948,0.065
+"gelernter Bankkaufmann",27.080,2,16,27.948,0.069
+"Linux Distribution",27.080,2,16,27.948,0.069
+"Mitte der 1990er",27.080,2,16,27.948,0.069
+"Möglichkeit der Veränderung",27.080,2,16,27.948,0.069
+"nicht-kommerzielle Nutzung",27.080,2,16,27.948,0.069
+"gewährtes Recht",27.080,2,16,27.948,0.069
+"ultimatives Ziel",27.080,2,16,27.948,0.069
+"Grenze des Urheberrechtsgesetzes",26.980,2,17,27.948,0.073
+"praktisches Projekt",26.980,2,17,27.948,0.073
+"jeweilige Software",26.980,2,17,27.948,0.073
+"geschriebenes Werk",26.980,2,17,27.948,0.073
+"ernste Bedrohung",26.880,2,18,27.948,0.078
+"professionelle Entwicklung",26.880,2,18,27.948,0.078
+"unveränderte Kopie",26.880,2,18,27.948,0.078
+"bestimmte Richtlinie",26.880,2,18,27.948,0.078
+"veränderte Version",26.880,2,18,27.948,0.078
+"Stefan Weber",26.880,2,18,27.948,0.078
+"And Other",26.880,2,18,27.948,0.078
+"großer Grund",26.750,2,19,27.948,0.082
+"Teil der Bewegung",26.750,2,19,27.948,0.082
+"Wert der Freiheit",26.750,2,19,27.948,0.082
+"frühes 1980eres Jahr",26.660,2,20,27.948,0.086
+"gewisser Mensch",26.660,2,20,27.948,0.086
+"Möglichkeit der Integration",26.660,2,20,27.948,0.086
+"marktwirtschaftliche Ordnung",26.660,2,20,27.948,0.086
+"technischer Vorteil",26.660,2,20,27.948,0.086
+"Zukunft der Gesellschaft",26.660,2,20,27.948,0.086
+"Nutzung des Programms",26.560,2,21,27.948,0.091
+"nützliches Wissen",26.560,2,21,27.948,0.091
+"kommerzielle Nutzung",26.540,4,265,55.896,1.145
+"Creative Commons",26.440,2,22,27.948,0.095
+"eigenes Forschungsprojekt",26.440,2,22,27.948,0.095
+"geringe Verbreitung",26.440,2,22,27.948,0.095
+"entsprechende Nutzung",26.340,2,23,27.948,0.099
+"korrespondierender Quelltext",26.340,2,23,27.948,0.099
+"vorherige schriftliche Einwilligung",26.240,2,24,27.948,0.104
+"langsame Geschwindigkeit",26.130,2,25,27.948,0.108
+"Werk der Literatur",26.130,2,25,27.948,0.108
+"bestehende Software",26.030,2,26,27.948,0.112
+"abgeleitetes Werk",26.030,2,26,27.948,0.112
+"gleiches Argument",25.940,2,27,27.948,0.117
+"erfolgreiche Beendigung",25.940,2,27,27.948,0.117
+"Überwindung des Kapitalismus",25.940,2,27,27.948,0.117
+"San José",25.850,2,28,27.948,0.121
+"schwerer Rückschlag",25.850,2,28,27.948,0.121
+"verfügbare Software",25.850,2,28,27.948,0.121
+"allgemeine Beratung",25.730,2,29,27.948,0.125
+"prominente Person",25.730,2,29,27.948,0.125
+"ganze Gemeinschaft",25.640,2,30,27.948,0.130
+"Under The",25.550,2,31,27.948,0.134
+"starke Form",25.440,2,32,27.948,0.138
+"öffentliche Rede",25.440,2,32,27.948,0.138
+"rechtlicher Beistand",25.350,2,33,27.948,0.143
+"Änderung des Namens",25.350,2,33,27.948,0.143
+"jeweilige Bedingung",25.260,2,34,27.948,0.147
+"beliebiger Rechner",25.260,2,34,27.948,0.147
+"praktischer Zweck",25.260,2,34,27.948,0.147
+"quantitative Analyse",25.150,2,35,27.948,0.151
+"Bill Gate",25.130,3,164,41.922,0.709
+"eigene Freiheit",24.980,2,37,27.948,0.160
+"freies Projekt",24.980,2,37,27.948,0.160
+"sorgfältige Recherche",24.980,2,37,27.948,0.160
+"allgemeine Betriebswirtschaftslehre",24.870,2,38,27.948,0.164
+"unterschiedliche Idee",24.870,2,38,27.948,0.164
+"akzeptable Lösung",24.870,2,38,27.948,0.164
+"Business School",24.780,4,300,55.896,1.296
+"beschriebene Weise",24.590,2,41,27.948,0.177
+"heutiger Zustand",24.430,2,43,27.948,0.186
+"abgeschwächte Form",24.330,2,44,27.948,0.190
+"maschinenlesbare Form",24.330,2,44,27.948,0.190
+"ungewöhnliche Weise",24.330,2,44,27.948,0.190
+"gleiche Möglichkeit",24.240,2,45,27.948,0.194
+"neue Einnahmequelle",24.060,2,47,27.948,0.203
+"wissenschaftliche Zusammenarbeit",23.900,2,49,27.948,0.212
+"1980eres Jahr",23.730,2,51,27.948,0.220
+"wichtige Möglichkeit",23.570,2,53,27.948,0.229
+"bestimmte Anwendung",23.400,2,55,27.948,0.238
+"sozialer Grund",23.400,2,55,27.948,0.238
+"kurze Darstellung",23.330,2,56,27.948,0.242
+"gesamte Gesellschaft",23.250,3,196,41.922,0.847
+"öffentliche Nutzung",23.230,2,57,27.948,0.246
+"Dynamics Nav",23.160,2,58,27.948,0.251
+"gängige Praxis",23.090,3,199,41.922,0.860
+"unterschiedlicher Wert",22.990,2,60,27.948,0.259
+"eigene Darstellung",22.850,2,62,27.948,0.268
+"Name des Autors",22.850,2,62,27.948,0.268
+"notwendige Bedingung",22.760,2,63,27.948,0.272
+"verbesserte Version",22.690,2,64,27.948,0.277
+"zweijährige Ausbildung",22.620,2,65,27.948,0.281
+"Herzogtum Lauenburg",22.620,2,65,27.948,0.281
+"digitale Zukunft",22.460,2,67,27.948,0.289
+"genauer Wortlaut",22.390,2,68,27.948,0.294
+"technologischer Wandel",22.230,2,70,27.948,0.302
+"persönliche Einschätzung",22.170,2,71,27.948,0.307
+"weite Bedingung",22.080,2,72,27.948,0.311
+"strikte Einhaltung",22.010,2,73,27.948,0.315
+"gleiche Kategorie",22.010,2,73,27.948,0.315
+"Frau Schmidt",22.010,2,73,27.948,0.315
+"großes Programm",21.860,2,75,27.948,0.324
+"geistiges Eigentum",21.790,7,818,97.819,3.534
+"damaliger Präsident",21.730,2,77,27.948,0.333
+"praktisches Problem",21.670,2,78,27.948,0.337
+"eigene Software",21.670,2,78,27.948,0.337
+"gutes Modell",21.590,2,79,27.948,0.341
+"wissenschaftliche Veröffentlichung",21.250,2,84,27.948,0.363
+"Massachusetts Institut",20.980,2,88,27.948,0.380
+"andere Technologie",20.920,2,89,27.948,0.385
+"rechtlicher Aspekt",20.730,3,248,41.922,1.071
+"soziales Problem",20.560,4,409,55.896,1.767
+"technische Eigenschaft",20.340,2,98,27.948,0.423
+"innerer Konflikt",20.340,2,98,27.948,0.423
+"tiefer Grund",20.290,2,99,27.948,0.428
+"Small Business",20.030,2,103,27.948,0.445
+"Region der Erde",19.870,2,106,27.948,0.458
+"aktiver Nutzer",19.800,2,107,27.948,0.462
+"State University",19.750,2,108,27.948,0.467
+"anerkannter Experte",19.690,2,109,27.948,0.471
+"Bank Ag",19.450,2,113,27.948,0.488
+"unterschiedliche Ansicht",19.450,2,113,27.948,0.488
+"geteilte Meinung",19.400,2,114,27.948,0.493
+"verschiedene Type",19.350,2,115,27.948,0.497
+"entwickelte Software",19.120,2,119,27.948,0.514
+"technische Analyse",19.020,2,121,27.948,0.523
+"schriftliche Einwilligung",18.700,2,127,27.948,0.549
+"eigene Datei",18.640,2,128,27.948,0.553
+"folgende Übersicht",18.590,2,129,27.948,0.557
+"öffentliches Gut",18.240,2,136,27.948,0.588
+"besonderes Problem",18.190,2,137,27.948,0.592
+"andere Gesellschaft",17.710,2,147,27.948,0.635
+"offener Standard",17.570,2,150,27.948,0.648
+"geplantes Projekt",17.520,2,151,27.948,0.652
+"rechtliche Regelung",17.430,2,153,27.948,0.661
+"kostengünstige Alternative",17.300,2,156,27.948,0.674
+"anderer Wert",17.170,2,159,27.948,0.687
+"gemeinsame Nutzung",16.780,2,168,27.948,0.726
+"technisches Verständnis",16.780,2,168,27.948,0.726
+"gemeinnützige Stiftung",16.730,2,169,27.948,0.730
+"genaue Zahl",16.730,2,169,27.948,0.730
+"gleicher Grund",16.690,2,170,27.948,0.734
+"technische Unterstützung",16.660,2,171,27.948,0.739
+"andere Bedeutung",16.610,2,172,27.948,0.743
+"technologischer Fortschritt",16.610,2,172,27.948,0.743
+"neue Marke",16.610,2,172,27.948,0.743
+"europäischer Raum",16.570,2,173,27.948,0.747
+"persönliches Budget",16.360,2,178,27.948,0.769
+"weites Kriterium",16.330,2,179,27.948,0.773
+"individuelle Anpassung",15.940,2,189,27.948,0.817
+"künftige Entwicklung",15.750,2,194,27.948,0.838
+"aktuelle Fassung",15.390,2,204,27.948,0.881
+"überwältigende Mehrheit",15.360,2,205,27.948,0.886
+"unterschiedliches Land",15.320,2,206,27.948,0.890
+"schwieriges Thema",15.250,2,208,27.948,0.899
+"Direktor des Instituts",15.220,2,209,27.948,0.903
+"gedruckte Form",15.120,2,212,27.948,0.916
+"Copyright --",14.970,1,0,13.974,0.000
+"Open--source --",14.970,1,0,13.974,0.000
+"angestelltes --",14.970,1,0,13.974,0.000
+"01 vorteil",14.970,1,0,13.974,0.000
+"03 ",14.970,1,0,13.974,0.000
+"Conditions 2a",14.970,1,0,13.974,0.000
+"proprietäre Api",14.970,1,0,13.974,0.000
+"proprietärer Apis",14.970,1,0,13.974,0.000
+"Abhängigkeit der Gesamten Gesellschaft",14.970,1,0,13.974,0.000
+"Abhängigkeit der Software",14.970,1,0,13.974,0.000
+"Ableger des Gnu-betriebssystems",14.970,1,0,13.974,0.000
+"Heidinger Abteilung",14.970,1,0,13.974,0.000
+"gemeinsames Adjektiv",14.970,1,0,13.974,0.000
+"Mit Ai",14.970,1,0,13.974,0.000
+"rekursives Akronym",14.970,1,0,13.974,0.000
+"englischsprachiger Aktivist",14.970,1,0,13.974,0.000
+"Computerspiel Allegiance",14.970,1,0,13.974,0.000
+"andere vorgeschlagene Alternative",14.970,1,0,13.974,0.000
+"clevere Altersvorsorge",14.970,1,0,13.974,0.000
+"Anfang eines Schemas",14.970,1,0,13.974,0.000
+"sichere Anforderung",14.970,1,0,13.974,0.000
+"unbeantwortetes Anliegen",14.970,1,0,13.974,0.000
+"Anschaffung eines Baumkatasters",14.970,1,0,13.974,0.000
+"schwebende Antitrust-ermittlung",14.970,1,0,13.974,0.000
+"beliebiger Anwendungsfall",14.970,1,0,13.974,0.000
+"proprietäres Anwendungsprogramm",14.970,1,0,13.974,0.000
+"Schwimmwettkampfprogramm Arbeit",14.970,1,0,13.974,0.000
+"Werner Arnhold",14.970,1,0,13.974,0.000
+"Art der Schadsoftware",14.970,1,0,13.974,0.000
+"erstellendes Artefakt",14.970,1,0,13.974,0.000
+"Aspekt der Software",14.970,1,0,13.974,0.000
+"Aufbau eines Freien Softwareökosystems",14.970,1,0,13.974,0.000
+"Translationswissenschaft Aufbau",14.970,1,0,13.974,0.000
+"Aufbauen der Software",14.970,1,0,13.974,0.000
+"Auffassung des Unternehmens",14.970,1,0,13.974,0.000
+"ethische Aufrichtigkeit",14.970,1,0,13.974,0.000
+"wahrhafte Aufrichtigkeit",14.970,1,0,13.974,0.000
+"Unkalkulierbarer Aufwand",14.970,1,0,13.974,0.000
+"veröffentlichte Ausarbeitung",14.970,1,0,13.974,0.000
+"triviale Ausfuhrbestimmung",14.970,1,0,13.974,0.000
+"Auslegung der Einzelnen Nutzungsrechte",14.970,1,0,13.974,0.000
+"spärliche Aussage",14.970,1,0,13.974,0.000
+"unbemerktes Ausspionieren",14.970,1,0,13.974,0.000
+"Ausuferung Verschiedener Freier Softwarelizenzen",14.970,1,0,13.974,0.000
+"überschaubare Ausuferung",14.970,1,0,13.974,0.000
+"moderne Automobilelektronik",14.970,1,0,13.974,0.000
+"Literaturverzeichnis Bitkom",14.970,1,0,13.974,0.000
+"Böhm Bu",14.970,1,0,13.974,0.000
+"Basis Standardisierter Mikroprozessoren",14.970,1,0,13.974,0.000
+"freies Basissystem",14.970,1,0,13.974,0.000
+"Computer Bastler",14.970,1,0,13.974,0.000
+"digitales Baumkatasters",14.970,1,0,13.974,0.000
+"Situation Baumkontrolle",14.970,1,0,13.974,0.000
+"modernes Baummanagementsystem",14.970,1,0,13.974,0.000
+"freier Bauplan",14.970,1,0,13.974,0.000
+"Beanspruchung eines Copyrights",14.970,1,0,13.974,0.000
+"kleine Bearbeitung",14.970,1,0,13.974,0.000
+"offizielle Bedeutung",14.970,1,0,13.974,0.000
+"unbeabsichtigte Bedeutung",14.970,1,0,13.974,0.000
+"Bedingung der Lizenz",14.970,1,0,13.974,0.000
+"proprietäre Bedingung",14.970,1,0,13.974,0.000
+"Befürworter der Kommerziellen Proprietärer Software",14.970,1,0,13.974,0.000
+"Gabriele Beger",14.970,1,0,13.974,0.000
+"Beginn des Gnu-projekts",14.970,1,0,13.974,0.000
+"Begrenzung der Produktion",14.970,1,0,13.974,0.000
+"Begrenzung des Preises",14.970,1,0,13.974,0.000
+"Begründer des Begriffs",14.970,1,0,13.974,0.000
+"Behandlung des Quelltextes",14.970,1,0,13.974,0.000
+"Beifügung des Quellcodes",14.970,1,0,13.974,0.000
+"Beispiel eines Saass-übersetzungsdienstes",14.970,1,0,13.974,0.000
+"Bekanntsein des Quellcodes",14.970,1,0,13.974,0.000
+"Belang der Praktiker",14.970,1,0,13.974,0.000
